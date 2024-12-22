@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**consortium-analytics/consortium-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Consortium Analytics' GitHub profile! 
 
-Here are some ideas to get you started:
+## About Us
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At Consortium Analytics, we focus on harnessing the power of your data with cutting-edge tools like Google Cloud, Azure, AWS, Power BI, Tableau, Snowflake, Google Analytics, SAS, Python, and R. Our services range from data visualization and analytics to data enrichment and engineering, helping you turn insights into action. Additionally, we provide custom software, mobile app, and website development to meet your unique needs. Let us help you bring your data and ideas to life.
+
+## Services
+- Data Visualization
+- Data Analytics
+- Data Enrichment
+- Data Engineering
+- Custom Software Development
+- Mobile App Development
+- Website Development
+
+## Get in Touch
+- **Website:** [consortiumanalytics.eu](https://consortiumanalytics.eu/)
+- **Email:** [post.consortium@gmail.com](mailto:post.consortium@gmail.com)
+- **LinkedIn:** [Consortium Analytics](https://www.linkedin.com/company/consortium-analytics/)
+- **YouTube:** [Consortium Analytics](https://www.youtube.com/@ConsortiumAnalytics)
+- **Facebook:** [Consortium Analytics](https://www.facebook.com/profile.php?id=61561910832309)
+
+Thank you for visiting our profile. We look forward to collaborating with you!
